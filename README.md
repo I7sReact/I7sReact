@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @I7sReact
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript, CSS and HTML(just to know how websites and the internet usualy work)
 - 💞️ I’m looking to collaborate on I'm only a student yet
 - 📫 How to reach me: Well, you don't
 
